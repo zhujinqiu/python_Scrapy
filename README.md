@@ -2,6 +2,9 @@
 
 不想做手动标注的肝王，可以来爬虫
 
+百度网盘提取地址：链接：https://pan.baidu.com/s/1GDmP6Wvg-DJmuaEEybEhTQ  
+提取码：z7hy  
+
 ## 先bb几句  
 
 测试了很多家购物网站，基本上都没有分类的接口  
